@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://luisgilmartin.com/sitemap.xml
+Disallow: /
+# TEMPORAL hasta el lanzamiento. Después: Allow: / y Sitemap: https://luisgilmartin.com/sitemap.xml
